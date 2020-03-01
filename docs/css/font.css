@@ -1,0 +1,6 @@
+/* latin */
+@font-face {
+  font-family: 'Epsy Sans';
+  font-style: normal;
+  src: local('Epsy Sans'), local('epsy-sans'), url(/EPSYSRG_.ttf) format('truetype');
+}
