@@ -75,6 +75,7 @@ p {
 img{
     width:200%;
     height: 200%;
+    margin: auto;
 }
 
 h1 {
@@ -140,4 +141,5 @@ a:hover {
 	margin: auto;
 	color: #FFFFFF;
 	background: none;
+    text-align: center;
 }
