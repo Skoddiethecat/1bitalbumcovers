@@ -75,7 +75,9 @@ p {
 img{
     width:200%;
     height: 200%;
-    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
