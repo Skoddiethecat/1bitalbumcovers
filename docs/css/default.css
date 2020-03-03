@@ -134,8 +134,8 @@ a:hover {
 }
 
 #Whole {
-	font-family: 'Epsy Sans', monospace;
-	font-size: 14px;
+	font-family: 'Epsy Sans', Roboto, monospace;
+	font-size: medium;
 	width: 95%;
 	padding-top: 1%;
 	margin: auto;
@@ -146,7 +146,7 @@ a:hover {
 
 span.unicode {
 	font-family: Roboto;
-	font-size: 15px;
+	font-size: medium;
 	color: #FFFFFF;
     text-align: center;
 }
