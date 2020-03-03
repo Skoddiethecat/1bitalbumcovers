@@ -4,3 +4,9 @@
   font-style: normal;
   src: local('Epsy Sans'), local('epsy-sans'), url(/css/EPSYSRG_.ttf) format('truetype');
 }
+
+@font-face {
+  font-family: BBCBengali;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2) format('woff2');
+  unicode-range: U+00-FF;
+}
