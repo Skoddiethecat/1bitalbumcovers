@@ -6,7 +6,8 @@
 }
 
 @font-face {
-  font-family: BBCBengali;
+  font-family: 'Roboto';
+  font-style: normal;
   src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2) format('woff2');
-  unicode-range: U+00-FF;
+  unicode-range: U+00A0—00FF;
 }
